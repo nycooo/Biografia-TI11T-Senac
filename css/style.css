@@ -1,0 +1,28 @@
+body{
+    font-family: Helvetica, Verdana, sans-serif;
+    margin: 50px;
+}
+.title{
+    font-size: 100px;
+    font-weight: bold;
+}
+.dados{
+    font-size: 17px;
+}
+.dados ul{
+    list-style: none;
+}
+.texto{
+    font-size: 20px;
+    text-align: center;
+}
+.texto img{
+    width: 100%;
+}
+.curiosidades{
+    font-size: 20px;
+    text-align: center;
+}
+.curiosidades img{
+    width: 100%;
+}
